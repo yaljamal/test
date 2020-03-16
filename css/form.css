@@ -1,0 +1,51 @@
+.label{
+    padding: 30px;
+
+}
+.input{
+    margin-top: 7%;
+    width: 50%;
+
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+input[type="submit"] {
+    margin-left: 50%;
+    margin-top: 5%;
+    height: 40px;
+    width: 100px;
+    background-color: #377bb7;
+    border-radius: 20px;
+}
+fieldset {
+    width: auto;
+    border: 2px solid #377bb7;
+}
+table#table {
+    height: fit-content;
+    border: 1px solid;
+    margin-top: 13%;
+    margin-left: 15%;
+}
+th {
+    border: 1px solid;
+    height: 35px;
+}
+canvas#myCanvas {
+    max-width: 400px;
+    max-height: 400px;
+    margin-left: 49%;
+    margin-top: -20%;
+}
+ form#form {
+        width: 25%;
+}
+ul#listForm {
+        margin-left: 50%;
+        margin-top: -16%;
+    }
